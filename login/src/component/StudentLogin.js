@@ -15,7 +15,7 @@ function StudentLogin() {
 
     const handleLogin = async () => {
         try {
-            const response = await fetch('http://localhost:3001/studentaccount');
+            const response = await fetch('https://d53xrvhv-3001.asse.devtunnels.ms/studentaccount');
             const data = await response.json();
             const foundUser = data.find(user => user.username === username && user.password === password);
             if (foundUser) {
