@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46987b24.css",
+    "main.js": "/static/js/main.8c03ec09.js",
+    "static/js/453.b5b22ff8.chunk.js": "/static/js/453.b5b22ff8.chunk.js",
+    "static/media/sccinventory.png": "/static/media/sccinventory.611c0cc132aea9c51287.png",
+    "static/media/student1.jpg": "/static/media/student1.85999de215d72334fe7a.jpg",
+    "index.html": "/index.html",
+    "main.46987b24.css.map": "/static/css/main.46987b24.css.map",
+    "main.8c03ec09.js.map": "/static/js/main.8c03ec09.js.map",
+    "453.b5b22ff8.chunk.js.map": "/static/js/453.b5b22ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46987b24.css",
+    "static/js/main.8c03ec09.js"
+  ]
+}
